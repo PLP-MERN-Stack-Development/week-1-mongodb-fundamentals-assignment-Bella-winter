@@ -3,6 +3,7 @@
 This project demonstrates fundamental and advanced MongoDB operations using a sample bookstore database.
  It includes CRUD operations, advanced queries, aggregation pipelines, and indexing.
  Learning MongoDB has been challenging and having to use the Create,Update,Delete Operations 
+ use of assyc functions with a promise, 
 
 
 ---
@@ -22,9 +23,9 @@ This project demonstrates fundamental and advanced MongoDB operations using a sa
 
 ``bash
 > Ensure that there is Nodejs run 
- node --version and npm--version
- npm install mongodb
- npm init -y    -( to initialize enviroment)
+ >node --version and npm--version
+ >npm install mongodb
+ >npm init -y    -( to initialize enviroment)
 `
 >
 ### 2. Run the Insert Script
